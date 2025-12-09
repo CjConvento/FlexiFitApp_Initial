@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "775683906550",
+    "firebase_url": "https://fir-app1-eedca-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-app1-eedca",
+    "storage_bucket": "fir-app1-eedca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775683906550:android:e522ea5eb74930401ac5d7",
+        "android_client_info": {
+          "package_name": "com.example.flexifitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwKRdD82546l_kULKlAN8NWZDVQKy7Iqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
