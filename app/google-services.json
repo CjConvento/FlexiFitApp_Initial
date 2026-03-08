@@ -13,7 +13,20 @@
           "package_name": "com.example.flexifitapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "775683906550-8a3rqnk571gmf2paaj37aquqnkjhks0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flexifitapp",
+            "certificate_hash": "104c4a96c76f326f2012d031c5c2a1097cb548ce"
+          }
+        },
+        {
+          "client_id": "775683906550-letts6e8tfoea1ph1ja6gh5s9t9euu8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyBwKRdD82546l_kULKlAN8NWZDVQKy7Iqo"
@@ -21,7 +34,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775683906550-letts6e8tfoea1ph1ja6gh5s9t9euu8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
